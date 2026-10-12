@@ -2,8 +2,7 @@
 
 CourseCast is a forecasting tool designed to help UIUC students make better decisions during course registration.
 
-Instead of only showing whether a section is open **right now**, CourseCast aims to answer a more useful question:
-
+CourseCast essentially answers: 
 > **What is the probability that this section will still be open when I register?**
 
 By combining current course availability with historical course data, CourseCast will estimate how likely individual sections are to remain available and show students how enrollment behavior changes over time.
@@ -13,7 +12,6 @@ By combining current course availability with historical course data, CourseCast
 ## Features
 
 CourseCast is being built to provide:
-
 - **Section availability forecasts** — estimated probability that a section will still be open at a student's registration time
 - **Section comparisons** — compare availability across multiple sections of the same course
 - **Historical trends** — visualize how courses and sections have filled in previous terms

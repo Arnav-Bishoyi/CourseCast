@@ -1,0 +1,41 @@
+[
+  {
+    "term": "2027-spring",
+    "crn": "DEMO-225-A",
+    "subject": "CS",
+    "course_number": "225",
+    "section_number": "DEMO-A",
+    "instructor": null,
+    "meeting_summary": "Synthetic example; no real schedule",
+    "cross_list_group": null,
+    "status": "open",
+    "observed_at": "2026-10-12T18:00:00Z",
+    "demo": true
+  },
+  {
+    "term": "2027-spring",
+    "crn": "DEMO-225-B",
+    "subject": "CS",
+    "course_number": "225",
+    "section_number": "DEMO-B",
+    "instructor": null,
+    "meeting_summary": "Synthetic example; no real schedule",
+    "cross_list_group": null,
+    "status": "open",
+    "observed_at": "2026-10-12T18:00:00Z",
+    "demo": true
+  },
+  {
+    "term": "2027-spring",
+    "crn": "DEMO-341-A",
+    "subject": "CS",
+    "course_number": "341",
+    "section_number": "DEMO-A",
+    "instructor": null,
+    "meeting_summary": "Synthetic example; no real schedule",
+    "cross_list_group": null,
+    "status": "closed",
+    "observed_at": "2026-10-12T18:00:00Z",
+    "demo": true
+  }
+]

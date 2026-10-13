@@ -1,0 +1,6 @@
+# Install separately when needed. Not required for the starter app.
+pandas
+lightgbm
+scikit-learn
+sentence-transformers
+jupyter

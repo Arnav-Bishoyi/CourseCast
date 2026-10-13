@@ -1,0 +1,18 @@
+[
+  {
+    "run_id": "00000000-0000-4000-8000-000000000001",
+    "started_at": "2026-10-12T17:00:00Z",
+    "completed_at": "2026-10-12T17:00:00Z",
+    "source": "synthetic_fixture",
+    "is_demo": true,
+    "status": "complete"
+  },
+  {
+    "run_id": "00000000-0000-4000-8000-000000000002",
+    "started_at": "2026-10-12T18:00:00Z",
+    "completed_at": "2026-10-12T18:00:00Z",
+    "source": "synthetic_fixture",
+    "is_demo": true,
+    "status": "complete"
+  }
+]

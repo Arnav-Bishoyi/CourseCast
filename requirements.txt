@@ -1,0 +1,7 @@
+# Direct dependencies pinned to versions checked with this starter.
+fastapi==0.143.0
+uvicorn==0.54.0
+streamlit==1.65.0
+requests==2.34.2
+pandas==3.0.6
+tzdata==2026.5

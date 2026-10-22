@@ -3,8 +3,9 @@
 Run the starter locally before beginning your assigned task. Each teammate creates
 an environment on their own laptop; `.venv` is not shared through Git.
 
-The starter currently uses **synthetic demo data**. The collector and trained
-forecasting model are not implemented yet. Postgres is not required to run the demo.
+The frontend and forecast API currently use **synthetic demo data**. A separate
+real-data collector is available under `collector/`; the trained forecasting model
+is not implemented yet. Postgres is not required to run the demo.
 
 ## 1. Get the repository
 
@@ -61,7 +62,7 @@ These commands use the environment's Python directly. **You do not need to run
 Expected results:
 
 - Sample validation: `Validated 6 synthetic snapshots across 3 sections.`
-- Tests: four tests pass and the output ends with `OK`.
+- Tests: eleven tests pass and the output ends with `OK`.
 
 A `StarletteDeprecationWarning` about `httpx` may appear with this dependency set.
 It did not prevent the starter tests from passing.
